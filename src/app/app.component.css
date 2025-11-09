@@ -1,0 +1,14 @@
+/* gallery.component.css */
+.photo-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; /* spacing between images */
+  justify-content: center; /* or space-between, space-around */
+}
+
+.photo-container img {
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}

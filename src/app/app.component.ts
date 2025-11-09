@@ -13,9 +13,12 @@ export class AppComponent {
   title = 'Sid-App';
   photos = [
   { url: 'assets/photos/1.jpg', caption: 'Family Picnic' },
-  { url: 'assets/photos/2.jpg', caption: 'Birthday Celebration' },
-  { url: 'assets/photos/3.jpg', caption: 'Birthday Celebration' },
-  { url: 'assets/photos/4.jpg', caption: 'Birthday Celebration' },
+  { url: 'assets/photos/2.JPG', caption: 'Birthday Celebration' } ,
+  { url: 'assets/photos/3.JPG', caption: 'Birthday Celebration' } , 
+  { url: 'assets/photos/4.JPG', caption: 'Birthday Celebration' } , 
+  { url: 'assets/photos/5.JPG', caption: 'Birthday Celebration' } , 
+  { url: 'assets/photos/6.JPG', caption: 'Birthday Celebration' } , 
+  { url: 'assets/photos/7.JPG', caption: 'Birthday Celebration' }  
   // Add more photos here
 ];
 }
